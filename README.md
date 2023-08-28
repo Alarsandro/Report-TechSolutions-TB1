@@ -3,6 +3,11 @@
 ### Desarrollo de Aplicaciones Open Source
 ### Ingeniería de Software
 
+# 1.2 Startup Profile 
+
+##  1.1.1 Descripcion del Startup 
+
+## 1.1.2 Perfiles de integrantes del equipo 
 
 
 # 1.2 Solution Profile
