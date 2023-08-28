@@ -1,4 +1,4 @@
-# <p style=»text-align: justify;»>**POINTBAR**</p>
+# **POINTBAR**
 ### Universidad Peruana de Ciencias Aplicadas
 ### Desarrollo de Aplicaciones Open Source
 ### Ingeniería de Software
